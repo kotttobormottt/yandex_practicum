@@ -1,2 +1,2 @@
-# yandex_practicum
+# Yandex-practicum
  
